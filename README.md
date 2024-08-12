@@ -46,6 +46,10 @@ await还可以提取coroutine或task返回值。
 
 只不过asyncio.run()和asyncio.gather()是隐式的将coroutine变成task，而asyncio.create_task()是显式的将coroutine变成task。
 
+----
+
+![image-20240812203935797](C:\Users\20962\AppData\Roaming\Typora\typora-user-images\image-20240812203935797.png)
+
 --------------
 
 
