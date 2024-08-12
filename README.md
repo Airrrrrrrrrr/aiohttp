@@ -48,7 +48,7 @@ await还可以提取coroutine或task返回值。
 
 ----
 
-![image-20240812203935797](C:\Users\20962\AppData\Roaming\Typora\typora-user-images\image-20240812203935797.png)
+![](C:\Users\20962\Desktop\tasks.png)
 
 --------------
 
