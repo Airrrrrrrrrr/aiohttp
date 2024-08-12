@@ -48,7 +48,7 @@ await还可以提取coroutine或task返回值。
 
 ----
 
-![](C:\Users\20962\Desktop\tasks.png)
+![](tasks.png)
 
 --------------
 
